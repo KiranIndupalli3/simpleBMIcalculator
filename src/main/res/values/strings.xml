@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleBMIcalculator</string>
+    <string name="star_image">Star Imgae</string>
+    <string name="give_your_weight_in_kgs">Give your weight in kgs</string>
+    <string name="give_your_height_in_cms">Give your height in cms</string>
+    <string name="find">FIND BMI</string>
+    <string name="refresh_button">REFRESH</string>
+</resources>
